@@ -1,0 +1,77 @@
+{
+  "screenDetails": {
+    "theaterName": "Cinepolis VIP Premium Multiplex Experience Center",
+    "screen": {
+      "screenName": "AUDI 3",
+      "screenType": "Screen X",
+      "rows": [
+        {
+          "rowLabel": "A",
+          "rowCategory": "Platinum",
+          "price": 800.0,
+          "totalSeatsInRow": 18,
+          "breaksAfterSeatNo": "5,13"
+        },
+        {
+          "rowLabel": "B",
+          "rowCategory": "Gold",
+          "price": 750.0,
+          "totalSeatsInRow": 20,
+          "breaksAfterSeatNo": "6,14"
+        },
+        {
+          "rowLabel": "C",
+          "rowCategory": "Silver",
+          "price": 600.0,
+          "totalSeatsInRow": 24,
+          "breaksAfterSeatNo": "8,16"
+        },
+        {
+          "rowLabel": "D",
+          "rowCategory": "Platinum",
+          "price": 800.0,
+          "totalSeatsInRow": 18,
+          "breaksAfterSeatNo": "5,13"
+        },
+        {
+          "rowLabel": "E",
+          "rowCategory": "Platinum",
+          "price": 800.0,
+          "totalSeatsInRow": 18,
+          "breaksAfterSeatNo": "5,13"
+        }
+      ],
+      "timeSlots": [
+        {
+          "timeSlotType": "Noon 12 P.M.",
+          "startTime": "12:00:00",
+          "endTime": "15:00:00"
+        },
+        {
+          "timeSlotType": "Evening 5 P.M.",
+          "startTime": "17:00:00",
+          "endTime": "20:00:00"
+        }
+      ],
+      "totalSeatsInScreen": 62,
+      "supportedShowDuration": "03:00:00",
+      "supportedBreakDuration": "00:30:00"
+    }
+  },
+  "message": "Successfully retrieved booked seats",
+  "status": "Success",
+  "bookedSeatDetails": [
+    {
+        "rowLabel": "A",
+        "seatNumber": 1
+    },
+    {
+        "rowLabel": "A",
+        "seatNumber": 2
+    },
+    {
+        "rowLabel": "A",
+        "seatNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+    "name": "THE WILD ROBOT",
+    "certificate": "PG",
+    "runtime": "1h 52m",
+    "releaseDate": "12 April 2024",
+    "genre": ["Animation", "Adventure", "Family"],
+    "languages": ["English", "Hindi", "Telugu", "Tamil"],
+    "format": ["2D", "3D", "IMAX 3D"],
+    "about": "Based on the beloved novel by Peter Brown, THE WILD ROBOT tells the story of Roz, a robot who becomes stranded on a remote island. As she adapts to her new environment, she learns to survive by observing the animals, forming unexpected friendships, and eventually becoming a part of the natural world in surprising ways.",
+    "cast": [
+        {
+            "name": "Lupita Nyong'o",
+            "role": "Roz (Voice)",
+            "image": "https://example.com/lupita.jpg"
+        },
+        {
+            "name": "Pedro Pascal",
+            "role": "Narrator (Voice)",
+            "image": "https://example.com/pedro.jpg"
+        },
+        {
+            "name": "Jacob Tremblay",
+            "role": "Brightbill (Voice)",
+            "image": "https://example.com/jacob.jpg"
+        }
+    ],
+    "crew": {
+        "director": "Chris Sanders",
+        "producer": "Roy Conli",
+        "musicDirector": "John Powell"
+    },
+    "rating": {
+        "imdb": 8.5,
+        "audience": 92
+    },
+    "images": {
+        "poster": "https://image.tmdb.org/t/p/original/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg",
+        "banner": "https://image.tmdb.org/t/p/original/v9acaWVVFdZT5yAU7J2QjwfhXyD.jpg",
+        "stills": [
+            "https://example.com/wildrobot-still1.jpg",
+            "https://example.com/wildrobot-still2.jpg",
+            "https://example.com/wildrobot-still3.jpg"
+        ]
+    },
+    "trailerUrl": "https://www.youtube.com/watch?v=fAHZZNmxi4Q",
+    "pricing": {
+        "premium": 500,
+        "executive": 350,
+        "normal": 250
+    },
+    "showTimings": [
+        "10:00 AM",
+        "01:15 PM",
+        "04:30 PM",
+        "07:45 PM",
+        "11:00 PM"
+    ],
+    "theaters": [
+        {
+            "name": "INOX Megaplex",
+            "location": "Lower Parel",
+            "facilities": ["4K Projection", "Dolby Atmos", "Recliner Seats", "Parking", "Food Court"]
+        },
+        {
+            "name": "PVR IMAX",
+            "location": "Phoenix Mall",
+            "facilities": ["IMAX 3D", "Premium Lounge", "Valet Parking", "Gourmet Food"]
+        }
+    ]
+}
